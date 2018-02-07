@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "prashanth molakala portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prashanth",
+    "molakala",
+    "portfolio"
+  ],
+  "author": "Prashanth Molakala",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
